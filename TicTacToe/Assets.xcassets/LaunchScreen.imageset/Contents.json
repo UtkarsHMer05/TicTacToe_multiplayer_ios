@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "tic-tac-toe.256x256.png",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "tic-tac-toe.256x256 copy.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
